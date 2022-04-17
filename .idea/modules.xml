@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NeroTranslit.iml" filepath="$PROJECT_DIR$/.idea/NeroTranslit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/translit.iml" filepath="$PROJECT_DIR$/.idea/translit.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cheking.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/decoder.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/def_structure_data.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/equel_datas.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/female_names.py" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/funk_translit.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/russian_last_names.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/russian_last_names_female.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/russian_last_names_male.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/russian_names_female.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/russian_names_male.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/sum_up.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
